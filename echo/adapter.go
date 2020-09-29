@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/awslabs/aws-lambda-go-api-proxy/core"
+	"github.com/jslang/aws-lambda-go-api-proxy/core"
 	"github.com/labstack/echo/v4"
 )
 
